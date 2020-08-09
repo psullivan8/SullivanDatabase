@@ -17,6 +17,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
+//TODO:  Your database does not look like a DB and i can't run your program -5
+//TODO:  your code looks good.  score 95/100
+
 namespace SullivanDatabase
 {
     /// <summary>
